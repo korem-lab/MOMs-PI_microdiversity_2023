@@ -21,7 +21,8 @@ Code and input data used to replicate data analyses in the manuscruipt Microdive
 - `Supplementary Fig. 6j`: use InStrain outputs based on subsampled data (5,000 Gardnerella reads) from the MOMs-PI study
 - `Supplementary Fig. 6`: use ALTAS outputs and InStrain outputs based on data from the MOMs-PI study
 - `Supplementary Fig. 7`: use InStrain outputs based on data from the MOMs-PI study
-- `Supplementary Fig. 8: use metadata
+- `Supplementary Fig. 8`: use PathoFact outputs
+- `Supplementary Fig. 9`: use metadata
 
 ### Input data
 - `CTF`: outputs from compositional tensor factorization analysis
