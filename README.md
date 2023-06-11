@@ -24,13 +24,13 @@ Code and input data used to replicate data analyses in the manuscruipt Microdive
 - `Supplementary Fig. 8: use metadata
 
 ### Input data
-- CTF outputs
-- InStrain outputs 
-  - MOMs-PI: use data from the MOMs-PI study
-  - Relman: use data from the Relman study (Gotsman et al.)
-  - subsample_10to5reads: use subsampled data (10^5 reads) from the MOMs-PI study
-  - subsample_Gardnerella_reads: use subsampled data (5,000 Gardnerella reads) from the MOMs-PI study
-- ALTAS outputs 
-- PathoFact outputs
-- metadata can be requested through the RAMS Registry (https://ramsregistry.vcu.edu)
+- `CTF`: outputs from compositional tensor factorization analysis
+- `InStrain`: microdiversity profiles using InStrain
+  - `MOMs-PI`: use data from the MOMs-PI study
+  - `Relman`: use data from the Relman study (Gotsman et al.)
+  - `subsample_10to5reads`: use subsampled data (10^5 reads) from the MOMs-PI study
+  - `subsample_Gardnerella_reads`: use subsampled data (5,000 Gardnerella reads) from the MOMs-PI study
+- `ALTAS`: outputs from ALTAS pipeline for assembly, binning, and annotation
+-  `PathoFact`: antimicrobial resistance (AMR) profiles using PathoFact
+-  metadata can be requested through the RAMS Registry (https://ramsregistry.vcu.edu)
 
