@@ -1,6 +1,6 @@
 # MOMs-PI_microdiversity_2023
 
-Code and input data used to replicate data analyses in the manuscruipt Microdiversity of the Vaginal Microbiome is Associated with Preterm Birth.
+Code used to replicate data analyses in the manuscruipt Microdiversity of the Vaginal Microbiome is Associated with Preterm Birth.
 
 ### Code
 
@@ -25,13 +25,5 @@ Code and input data used to replicate data analyses in the manuscruipt Microdive
 - `Supplementary Fig. 9`: use metadata
 
 ### Input data
-- `CTF`: outputs from compositional tensor factorization analysis
-- `InStrain`: microdiversity profiles using InStrain
-  - `MOMs-PI`: use data from the MOMs-PI study
-  - `Relman`: use data from the Relman study (Gotsman et al.)
-  - `subsample_10to5reads`: use subsampled data (10^5 reads) from the MOMs-PI study
-  - `subsample_Gardnerella_reads`: use subsampled data (5,000 Gardnerella reads) from the MOMs-PI study
-- `ALTAS`: outputs from ALTAS pipeline for assembly, binning, and annotation
--  `PathoFact`: antimicrobial resistance (AMR) profiles using PathoFact
--  metadata can be requested through the RAMS Registry (https://ramsregistry.vcu.edu)
+Input data used for the analyses is published as: Jingqiu Liao, Liat Shenhav, & Tal Korem. (2023). Processed data for Microdiversity of the Vaginal Microbiome is Associated with Preterm Birth. [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8150902
 
